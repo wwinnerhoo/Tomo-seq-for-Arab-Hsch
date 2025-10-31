@@ -70,4 +70,8 @@ loaded via a namespace (and not attached):
 
 ## Citation
 
-If you use or adapt code/data from this repository, please cite the manuscript above.
+If you use or adapt code/data from this repository, please cite the manuscript below.
+
+> **Pijnacker, A.<sup>#</sup>**, **Wang, Y.<sup>#</sup>**, Willig, J. J., Mars, J., Werner, S., Adema, K., ... & **Lozano-Torres, J. L**.  
+> *RNA tomography reveals spatial gene expression maps of* *Arabidopsis thaliana* *roots infected with* *Heterodera schachtii.*  
+> **New Phytologist**. [https://doi.org/10.1111/nph.70674](https://doi.org/10.1111/nph.70674)
